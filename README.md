@@ -1,1 +1,1 @@
-# MiniItTest-Arcanoid
+# Arcanoid
